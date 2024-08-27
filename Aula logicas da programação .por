@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    inteiro n1, n2, n3, media
+    inteiro n1, n2, media
 
     escreva(" me informe a primeira nota ")
     leia(n1)
